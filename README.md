@@ -5,7 +5,7 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. <br />
 <h2>NOTE:</h2>
-Thisis designed for setup on Azure, or any other Cloud Service Provider (AWS, etc.), inside of a Virtual Machine enviroment.<br />
+This is designed for setup on Azure, or any other Cloud Service Provider (AWS, etc.), inside of a Virtual Machine enviroment.<br />
 
 
 
