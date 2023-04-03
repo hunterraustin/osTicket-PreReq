@@ -28,10 +28,10 @@ This is designed for setup on Azure, or any other Cloud Service Provider (AWS, e
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/TfymSCd" height="40%" width="40%"/>
+<img src="https://imgur.com/TfymSCd.png" height="60%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The red boxes represent the core server settings we need. note: (if you have your own computer that can run osTicket-- you can continue these steps on your own computer). We are hosting a VM server in the picture above so we can run osTicket with assumed hardware and RDP connection enabled. 
 </p>
 <br />
 
